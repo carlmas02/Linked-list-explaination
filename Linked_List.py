@@ -189,36 +189,6 @@ FE.node_at_beginning(2)
 FE.node_at_end(100)
 FE.print_list()
 
-
-
-
-#FE.reverse_ll()
-
-print("")
-
-#FE.length_list()
-
-#FE.search_item("Gifford")
-
-#FE.n_node_from_end(3)
-
-#FE.palindrome()
-
-#FE.remove_duplicates()
-
-#FE.last_to_front()
-
-#FE.reverse_list()
-
-#print(FE.odd_even_list())
-
-
-#FE.delete_last_node()
-
-#FE.pair_wise_swap()
-
-FE.even_odd_nodes()
-
 FE.print_list()
 
 
